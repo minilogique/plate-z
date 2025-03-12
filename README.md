@@ -1,4 +1,4 @@
-![alt text](https://github.com/minilogique/plate-z/blob/main/renders/plate%20z%20front%20view.png)
+![alt text](https://github.com/minilogique/plate-z/blob/main/renders/plate%20z%20front.png)
 
 A more industrial look and feel for the revered printed Voron Trident and 2.4 Z-assembly. Keep in mind, that I do not own an official Voron but instead an adaption from Flying Bear Reborn 2 and this whole process is not complete. Keep in mind though, that the front carriers and carrier plates can be used to replace printed pieces as far as I'm concnerned, will check it once, again, I have gotten the CAD file of Trident. Flying Bear Reborn 2 owners are good to use these parts as in my printer it's been all happy for the last 200+ printing hours with more than 60C enclosure temperatures.
 
@@ -10,7 +10,7 @@ I recommend to cut the front plates out of AT LEAST 4mm aluminium but go for 6mm
 
 The bigplate or big X-plate has to be cut from 6mm stainless steel. I might fear the aluminum might be a bit too bendy, but if your printer has 6mm bed it should be fine.
 
-![alt text](https://github.com/minilogique/plate-z/blob/main/renders/plate%20z%20rear%20quarter.png)
+![alt text](https://github.com/minilogique/plate-z/blob/main/renders/plate%20z%20big%20plate%20front%20quarter.png)
 
 To do this mod you might need to be able to quite possibly drill and tap your bed block for additional hardware.
 
