@@ -14,7 +14,7 @@ The bigplate or big X-plate has to be cut from 6mm stainless steel. I might fear
 
 To do this mod you might need to be able to quite possibly drill and tap your bed block for additional hardware.
 
-Hardware I used with adapted Flying Bear Reborn 2 with Annex 350x350x12mm bed:
+Hardware I used with adapted Flying Bear Reborn 2 with Annex 350x350x12mm bed and 350mm version of FYSETCH 1000W heater:
 - 8x M5x35 with nuts, washers are recommended; for attaching rear and front carriers to the plates. DO NOT overtighten the rear carrier as it might deform the part and misalign the rail cart bolt bores
 - 4x M3x40 to attach rear plate carrier to the rear linear rail cart
 - 10x M4x8 for 4mm stepper plates or 10x M4x10 for 6mm stepper plates
